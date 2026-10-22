@@ -1,0 +1,6 @@
+global using Fonts;
+global using MauiModalAndroidBackReproduction.Data;
+global using MauiModalAndroidBackReproduction.PageModels;
+global using MauiModalAndroidBackReproduction.Pages;
+global using MauiModalAndroidBackReproduction.Services;
+global using MauiModalAndroidBackReproduction.Utilities;
